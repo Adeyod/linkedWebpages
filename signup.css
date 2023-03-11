@@ -87,9 +87,9 @@ a {
     #form {
         width: 80%;
         word-wrap: nowrap;
-        margin: auto;
+        margin-left: 10px;
     }
     a {
-        margin: 3px;
+        white-space:nowrap;
     }
 }
