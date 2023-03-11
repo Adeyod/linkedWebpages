@@ -86,5 +86,10 @@ a {
 @media (max-width: 445px) {
     #form {
         width: 80%;
+        word-wrap: nowrap;
+        margin: auto;
+    }
+    a {
+        margin: 3px;
     }
 }
