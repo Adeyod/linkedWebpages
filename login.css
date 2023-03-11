@@ -86,18 +86,24 @@ a {
     border-radius: 4px;
     font-weight: bold;
 }
-@media (max-width: 900px) {
-    
-  }
+
   @media (max-width: 445px) {
     #form {
         margin: 0;
         width: 100%;
     }
     h2 {
-        font-size: 45px; 
+        font-size: 30px; 
     } 
     div {
         padding-left: 10px;
+    }
+    p {
+        width: 100%;
+        padding: 0;
+    }
+    a {
+        white-space: nowrap;
+        margin: 0;
     }
   }
