@@ -90,6 +90,10 @@ a {
     
   }
   @media (max-width: 445px) {
+    #form {
+        margin: 0;
+        width: 100%;
+    }
     h2 {
         font-size: 45px; 
     } 
