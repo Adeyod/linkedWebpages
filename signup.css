@@ -83,3 +83,8 @@ a {
     font-weight: bold;
     margin: 10px;
 }
+@media (max-width: 445px) {
+    #form {
+        width: 80%;
+    }
+}
